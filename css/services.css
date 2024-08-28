@@ -25,13 +25,13 @@
     margin-inline: 2em;
 }
 .img1{
-    background-image: url('img/picture23.png');
+    background-image: url('/img/picture23.png');
 }
 .img2{
-    background-image: url('img/Picture19.jpg');
+    background-image: url('/img/Picture19.jpg');
 }
 .img3{
-    background-image: url('img/Picture20.png');
+    background-image: url('/img/Picture20.png');
 }
 .p ul{
     font-size: 1.2em;
