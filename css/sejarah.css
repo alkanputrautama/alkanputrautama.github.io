@@ -30,17 +30,17 @@ article .box1{
 article .box2{
     width: 500px;
     height: 300px;
-    background-image: url('img/Picture22.jpg');
+    background-image: url('/img/Picture22.jpg');
     margin-inline: 2em;
     background-size: cover;
     border-radius: 7px;
 }
 article #img2{
-    background-image: url('img/Picture4.png');
+    background-image: url('/img/Picture4.png');
     margin-inline: 2em;
 }
 article #img3{
-    background-image: url('img/Picture5.png');
+    background-image: url('/img/Picture5.png');
     margin-inline: 2em;
 }
 .sejarah{
