@@ -1,0 +1,19 @@
+
+.career{
+    width: 60%;
+    margin: auto;
+    margin-block: 10em;
+}
+
+.career-title{
+    font-weight: 100;
+    align-items: center;
+    justify-content: center;
+}
+
+.p{
+    align-items: center;
+    margin-bottom: 3em;
+
+}
+

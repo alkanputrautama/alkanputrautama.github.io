@@ -1,0 +1,43 @@
+
+
+.services-title{
+    font-weight: 100;
+    align-items: center;
+    justify-content: center;
+    font-size: 3em;
+}
+
+.servis-page{
+    display: flex;
+}
+.servis-page{
+    margin-block: 5em;
+    
+}
+.servis-page .text{
+    line-height: 2em;
+    margin-block: 2em;
+}
+.img1, .img2, .img3{
+    width: 50%;
+    height: 250px;
+    background-size: cover;
+    margin-inline: 2em;
+}
+.img1{
+    background-image: url('img/picture23.png');
+}
+.img2{
+    background-image: url('img/Picture19.jpg');
+}
+.img3{
+    background-image: url('img/Picture20.png');
+}
+.p ul{
+    font-size: 1.2em;
+    align-items: center;
+    margin-bottom: 3em;
+    width: 60%;
+    margin: auto;
+    margin-block: 5em;
+}

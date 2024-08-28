@@ -1,0 +1,88 @@
+
+
+
+
+/* tes  */
+.pf-container h1{
+    align-items: center;
+    justify-content: center;
+    font-weight: 100;
+    font-size: 3em;
+}
+.pf{
+    width: 80%;  
+    height: auto;
+    margin: auto;
+}
+main .pf .row{
+    width: 100%;
+    margin: 1em 1em;
+    display: flex;
+    
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+  }
+.row-col{
+  width: 80%;
+  margin: auto;
+  margin-block: 5em;
+}
+.row-col .text{
+  margin: auto;
+}
+.row-col p{
+  text-align: center;
+  font-size: 1.5em ;
+}
+.pf-wrapper {
+    width: 25%;
+    height: auto;
+    margin: 1em;
+}
+
+.pf-wrapper img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    transition: .2s;
+}
+.pf-wrapper img:hover{
+    transform: scale(1.1);
+}
+.port-wall{
+    width: 100%;
+    color: rgb(255, 255, 255);
+    border-color: rgb(226, 226, 226);
+    margin-block: 5em;
+}
+/* sec  */
+.clients h1{
+    width: 90%;
+    margin-inline: auto;
+    font-size: 2.1em;
+  }
+.clients img{
+    transition: .2s;
+  }
+  .clients img:hover{
+    transform: scale(1.1);
+  }
+  .wrapper {
+    width: 200px;
+    height: 150px;
+    padding-inline: 2em;
+    
+  }
+
+  /* animat fade  */
+
+  .pf-container img {
+    transition: opacity 0.2s ease-in-out; /* add transition effect */
+  }
+  
+  .pf-container img.fade-out {
+    opacity: 0;
+  }
